@@ -30,7 +30,7 @@ html {
   /* This css is only applied when fullscreen is active. */
   .player:fullscreen {
     max-width: none;
-    width: 100%;
+   width: 100%;
   }
   
   .player:-webkit-full-screen {
